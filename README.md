@@ -1,1 +1,2 @@
-"# Artificial-Intelligence-Gui" 
+# Artificial-Intelligence-Gui
+### Graphical simulation of Machine Learning algorithms
